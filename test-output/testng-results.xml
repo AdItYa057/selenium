@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="297774" started-at="2020-03-05T13:48:27 IST" finished-at="2020-03-05T13:53:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="297774" started-at="2020-03-05T13:48:27 IST" finished-at="2020-03-05T13:53:25 IST">
+      <class name="com.cts.magentotest.LoginTest">
+        <test-method status="PASS" signature="intitialization(java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="intitialization" is-config="true" duration-ms="39985" started-at="2020-03-05T13:48:28 IST" finished-at="2020-03-05T13:49:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitialization -->
+        <test-method status="PASS" signature="invalidCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="invalidCredentials" duration-ms="14459" started-at="2020-03-05T13:49:08 IST" data-provider="invalidCredentialdata" finished-at="2020-03-05T13:49:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pepsi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pepsi2508]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="endBrowser" is-config="true" duration-ms="755" started-at="2020-03-05T13:49:22 IST" finished-at="2020-03-05T13:49:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+        <test-method status="PASS" signature="intitialization(java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="intitialization" is-config="true" duration-ms="42472" started-at="2020-03-05T13:49:23 IST" finished-at="2020-03-05T13:50:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitialization -->
+        <test-method status="PASS" signature="invalidCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="invalidCredentials" duration-ms="16862" started-at="2020-03-05T13:50:06 IST" data-provider="invalidCredentialdata" finished-at="2020-03-05T13:50:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uday@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mubv123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="endBrowser" is-config="true" duration-ms="868" started-at="2020-03-05T13:50:22 IST" finished-at="2020-03-05T13:50:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+        <test-method status="PASS" signature="intitialization(java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="intitialization" is-config="true" duration-ms="14666" started-at="2020-03-05T13:50:23 IST" finished-at="2020-03-05T13:50:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitialization -->
+        <test-method status="PASS" signature="invalidCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="invalidCredentials" duration-ms="19143" started-at="2020-03-05T13:50:38 IST" data-provider="invalidCredentialdata" finished-at="2020-03-05T13:50:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haritha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hari654]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="endBrowser" is-config="true" duration-ms="788" started-at="2020-03-05T13:50:57 IST" finished-at="2020-03-05T13:50:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+        <test-method status="PASS" signature="intitialization(java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="intitialization" is-config="true" duration-ms="21272" started-at="2020-03-05T13:50:58 IST" finished-at="2020-03-05T13:51:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitialization -->
+        <test-method status="PASS" signature="invalidCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="invalidCredentials" duration-ms="24037" started-at="2020-03-05T13:51:19 IST" data-provider="invalidCredentialdata" finished-at="2020-03-05T13:51:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sashank@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sasi6546]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="endBrowser" is-config="true" duration-ms="745" started-at="2020-03-05T13:51:43 IST" finished-at="2020-03-05T13:51:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+        <test-method status="PASS" signature="intitialization(java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="intitialization" is-config="true" duration-ms="20778" started-at="2020-03-05T13:51:44 IST" finished-at="2020-03-05T13:52:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitialization -->
+        <test-method status="PASS" signature="invalidCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="invalidCredentials" duration-ms="19165" started-at="2020-03-05T13:52:05 IST" data-provider="invalidCredentialdata" finished-at="2020-03-05T13:52:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cheepiya@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhanu143]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="endBrowser" is-config="true" duration-ms="725" started-at="2020-03-05T13:52:24 IST" finished-at="2020-03-05T13:52:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+        <test-method status="PASS" signature="intitialization(java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="intitialization" is-config="true" duration-ms="13482" started-at="2020-03-05T13:52:25 IST" finished-at="2020-03-05T13:52:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitialization -->
+        <test-method status="PASS" signature="invalidCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="invalidCredentials" duration-ms="13250" started-at="2020-03-05T13:52:38 IST" data-provider="invalidCredentialdata" finished-at="2020-03-05T13:52:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tinku@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[trust0507]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid login or password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="endBrowser" is-config="true" duration-ms="763" started-at="2020-03-05T13:52:51 IST" finished-at="2020-03-05T13:52:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+        <test-method status="PASS" signature="intitialization(java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="intitialization" is-config="true" duration-ms="14249" started-at="2020-03-05T13:52:52 IST" finished-at="2020-03-05T13:53:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitialization -->
+        <test-method status="PASS" signature="validCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="validCredentials" duration-ms="16716" started-at="2020-03-05T13:53:07 IST" data-provider="validCredentialsData" finished-at="2020-03-05T13:53:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[balaji0017@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[welcome@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method status="PASS" signature="endBrowser()[pri:0, instance:com.cts.magentotest.LoginTest@3b084709]" name="endBrowser" is-config="true" duration-ms="1222" started-at="2020-03-05T13:53:23 IST" finished-at="2020-03-05T13:53:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endBrowser -->
+      </class> <!-- com.cts.magentotest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
